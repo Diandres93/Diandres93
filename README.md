@@ -1,6 +1,7 @@
-<di aling="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" />
- </div>
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Imagen" style="display: block; max-width: 100%; max-height: 100%; margin: auto;">
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Diego Muñoz</h1>
 <h3 align="center">I am a software development specialist from Colombia</h3>
